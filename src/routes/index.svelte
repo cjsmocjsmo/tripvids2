@@ -8,6 +8,7 @@
 </svelte:head>
 
 <h1>Texas Trip</h1>
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 <div class="vidWrapper">
 	<iframe 
 		class="iframeWrapper"
@@ -48,45 +49,19 @@
 		allowfullscreen>
 	</iframe>
 </div>
-<!-- <h1>USS Rosevelt</h1>
-<p>The USS Rosevelt entering Puget Sound for refit</p>
-<div class="vidWrapper">
-	<iframe 
-		class="iframeWrapper"
-		src="https://www.youtube.com/embed/HQv-tpgzBCI" 
-		title="USS Rosevelt" 
-		frameborder="0" 
-		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-		allowfullscreen>
-	</iframe>
-</div>
-<div  class="vidWrapper">
-	<iframe 
-		class="iframeWrapper" 
-		src="https://www.youtube.com/embed/gthpd2HNus8" 
-		title="USS Rosevelt"
-		frameborder="0"
-		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-		allowfullscreen>
-	</iframe>
-</div> -->
-
-<!-- <h1>Grandma</h1>
-<div  class="vidWrapper">
-	
-	<iframe 
-		class="iframeWrapper"
-		src="https://www.youtube.com/embed/I3e04TJ-Ses" 
-		title="Grandma" 
-		frameborder="0"
-		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-		allowfullscreen>
-	</iframe>
-</div> -->
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 
 <style>
+	button {
+        width: 25%;
+		padding: 8px;
+		border-radius: 7px;
+		background-color: white;
+		font-size: 1.25em;
+		color: black;
+    }
 
-	h1, p {
+	h1 {
 		color: white;
 	}
 

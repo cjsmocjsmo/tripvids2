@@ -20,6 +20,7 @@
 
 <h1>USS Rosevelt</h1>
 <p>The USS Rosevelt entering Puget Sound for refit</p>
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 <div class="vidWrapper">
 	<iframe 
 		class="iframeWrapper"
@@ -52,8 +53,18 @@
 		allowfullscreen>
 	</iframe>
 </div>
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 
 <style>
+	button {
+        width: 25%;
+		padding: 8px;
+		border-radius: 7px;
+		background-color: white;
+		font-size: 1.25em;
+		color: black;
+    }
+
 
 	h1, p {
 		color: white;
